@@ -19,7 +19,7 @@ Sur ce GitHub, vous découvrirez :
 
 ### [The Awesome House]
 
-Un jeu en 2.5d que je développe avec [Estra0](github.com/estra0) sur le thème du dessin animé "The Loud House"
+Un jeu en 2.5d que je développe avec [Estra0](https://github.com/Estra0) sur le thème du dessin animé "The Loud House"
 
 
 ## Comment me contacter
